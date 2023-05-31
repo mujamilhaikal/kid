@@ -1,10 +1,12 @@
-# This is a simple Python application that provides a number of network tools. The tools include:
+# This is a simple Python application that provides a number of network tools. 
 
-Check SNI
-Check Response
-Check DNS Spoofing
-Find Host IP
-Scan Ports
+## The tools include:
+* Check SNI
+* Check Response
+* Check DNS Spoofing
+* Find Host IP
+* Scan Ports
+
 To use the application, simply enter the URL of the website or server you want to test in the URL input field and click the corresponding button. 
 
 ## The application will then display the results of the test.
