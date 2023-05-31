@@ -1,0 +1,6 @@
+tkinter
+requests
+urllib3
+colorama
+sockets
+subprocess
