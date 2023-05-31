@@ -1,4 +1,4 @@
-# This is a simple Python application that provides a number of network tools. 
+# This is a simple Python GUI Application that provides a number of network tools. 
 
 ## The tools include:
 * Check SNI
