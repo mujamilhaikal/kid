@@ -35,3 +35,6 @@ Make sure that you have installed the required Python packages.
 
 Make sure that you are using the correct version of Python.
 
+# LICENSE
+
+## GNU General Public License v3.0
