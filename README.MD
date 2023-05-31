@@ -1,5 +1,4 @@
-Network Tools
-This is a simple Python application that provides a number of network tools. The tools include:
+#This is a simple Python application that provides a number of network tools. The tools include:
 
 Check SNI
 Check Response
