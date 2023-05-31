@@ -32,6 +32,6 @@ To test a website or server, simply enter the URL in the URL input field and cli
 
 # NOTE
 Make sure that you have installed the required Python packages.
+
 Make sure that you are using the correct version of Python.
-Try running the application with the -h flag to display help information.
 
