@@ -1,4 +1,4 @@
-#This is a simple Python application that provides a number of network tools. The tools include:
+# This is a simple Python application that provides a number of network tools. The tools include:
 
 Check SNI
 Check Response
@@ -16,20 +16,8 @@ Colorama
 Sockets
 Subprocess
 Installation
-To install the application, simply clone the repository and run the following command:
 
-pip install .
-
-Code snippet
-
-## Usage
-
-To use the application, simply run the following command:
-
-Use code with caution. Learn more
-network_tools
-
-The application will then open a window with the following controls:
+## The application will then open a window with the following controls:
 
 URL input field
 Check SNI button
